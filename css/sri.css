@@ -1,0 +1,101 @@
+body{
+    font-family: 'Mulish', sans-serif;
+}
+
+.first img{
+    width:100%;
+    height: 300px;
+    margin-top: 60px;
+}
+.cont h5{
+    margin-top: 25px;
+    font-family: 'Nuosu SIL', serif;
+    font-size: 20px;
+    line-height: 30px;
+    margin-left: 30px;
+    
+}
+.cont h3{
+    margin-top: 50px;
+    margin-left: 30px;
+    font-weight: bold;
+}
+
+
+footer{
+    margin-top: 60px;
+    background-image: url(../images/footimg.jpg);
+    min-height: 400px;
+}
+.footer-logo p{
+    color: white;
+
+}
+.shl{
+    width: 60%;
+    height: 150px !important;
+    margin-top: 80px;
+    
+}
+
+.footer-logo ul{
+    padding:0;
+    margin: 0;
+    
+}
+.footer-logo ul li{
+    list-style: none;
+    float: left;
+    padding-right: 20px;
+    
+    
+    
+}
+.footer-logo ul li a{
+    list-style: none;
+    color:white;
+    
+    
+}
+.footer-links h3{
+    margin-top: 120px;
+    margin-bottom: 20px;
+    color:white;
+    font-size: 20px;
+    font-family: 'Rubik', sans-serif;
+    margin-left: 3px;
+}
+.footer-links ul li a{
+    text-decoration: none;
+    color:white;
+    font-size: 17px;
+    
+    
+
+    
+}
+.footer-links ul li {
+    text-decoration: none;
+    color:white;
+    line-height: 40px;
+    list-style: none;
+    font-size: 18px;
+   
+    
+    
+}
+.icon{
+    font-size: 25px !important;
+}
+.footer-links ul{
+    padding: 0px;
+   
+}
+.fi{
+    padding-right: 10px;
+    font-size: 12px !important;
+}
+.add{
+    margin-left:-1px;
+    padding-right: 15px;
+}
